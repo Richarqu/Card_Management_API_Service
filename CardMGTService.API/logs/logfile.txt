@@ -1,0 +1,175 @@
+2019-08-01 11:14:46.9012 6 Info CardAuthorizeAttribute Request got here from client with request details Method: POST, RequestUri: 'http://localhost:50704/CardMGT/RequestVirtualCard', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Connection: keep-alive
+  Accept: application/json
+  Accept-Encoding: gzip
+  Accept-Encoding: deflate
+  Accept-Encoding: br
+  Accept-Language: en-US
+  Accept-Language: en; q=0.9
+  Cookie: csrf_token=XK0h+49UHTfJdL+q54bkVDqtwZ6xZpjU7J8tctBVz+o=; _ga=GA1.1.80832845.1550989018
+  Host: localhost:50704
+  Referer: http://localhost:50704/swagger/ui/index
+  User-Agent: Mozilla/5.0
+  User-Agent: (Windows NT 10.0; Win64; x64)
+  User-Agent: AppleWebKit/537.36
+  User-Agent: (KHTML, like Gecko)
+  User-Agent: Chrome/75.0.3770.142
+  User-Agent: Safari/537.36
+  Origin: http://localhost:50704
+  ApplicationInsights-RequestTrackingTelemetryModule-RootRequest-Id: 7cffac12-c4c9-4aa1-bc6c-b5c31e8975f9
+  Content-Length: 240
+  Content-Type: application/json
+} 
+2019-08-01 11:56:02.9679 13 Info CardAuthorizeAttribute Request got here from client with request details Method: POST, RequestUri: 'http://localhost:50703/CardMGT/RequestVirtualCard', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Connection: keep-alive
+  Accept: application/json
+  Accept-Encoding: gzip
+  Accept-Encoding: deflate
+  Accept-Encoding: br
+  Accept-Language: en-US
+  Accept-Language: en; q=0.9
+  Cookie: csrf_token=XK0h+49UHTfJdL+q54bkVDqtwZ6xZpjU7J8tctBVz+o=; _ga=GA1.1.80832845.1550989018
+  Host: localhost:50703
+  Referer: http://localhost:50703/swagger/ui/index
+  User-Agent: Mozilla/5.0
+  User-Agent: (Windows NT 10.0; Win64; x64)
+  User-Agent: AppleWebKit/537.36
+  User-Agent: (KHTML, like Gecko)
+  User-Agent: Chrome/75.0.3770.142
+  User-Agent: Safari/537.36
+  Origin: http://localhost:50703
+  ApplicationInsights-RequestTrackingTelemetryModule-RootRequest-Id: 6e5293a4-fcb7-42af-aec5-27f2dacee800
+  Content-Length: 240
+  Content-Type: application/json
+} 
+2019-08-01 12:05:06.0854 5 Info CardAuthorizeAttribute Request got here from client with request details Method: POST, RequestUri: 'http://localhost:50703/CardMGT/RequestVirtualCard', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Connection: Keep-Alive
+  Expect: 100-continue
+  Host: localhost:50703
+  X-CS: hMS/qV7td62sOi02fn2uehIFmyi5K/zRYhiUs6xFkTE=
+  X-CID: GOMD88C219
+  ApplicationInsights-RequestTrackingTelemetryModule-RootRequest-Id: 7ec2ed34-e299-4538-96b7-f3a281837717
+  Content-Length: 230
+  Content-Type: application/json; charset=utf-8
+} 
+2019-08-01 12:05:09.6950 6 Info CardManagementService Inside InstanceVirtual Card ReqWallet method for Account 08034743711 and ProductId 100 
+2019-08-01 12:05:09.7170 6 Info CardManagementService Product Loaded Successfully for Account 08034743711 and ProductId 100 
+2019-08-01 12:05:10.3712 6 Info CardManagementService PAN Generated for Account 08034743711 and ProductId 100 is 30712533 
+2019-08-01 12:05:10.3712 6 Info CardManagementService Final PAN Generated for Account 08034743711 and ProductId 100 is 5334771430712533 
+2019-08-01 12:05:12.5539 8 Info CardManagementService Card Details Successfully inserted into Postillion for Account 08034743711 and ProductId 100 
+2019-08-01 12:05:12.6264 8 Info CardManagementService Card Details Successfully inserted into Card request table for Account 08034743711 and ProductId 100 
+2019-08-01 12:22:06.1346 8 Info CardAuthorizeAttribute Request got here from client with request details Method: POST, RequestUri: 'http://localhost:50703/CardMGT/RequestVirtualCard', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Connection: keep-alive
+  Accept: application/json
+  Accept-Encoding: gzip
+  Accept-Encoding: deflate
+  Accept-Encoding: br
+  Accept-Language: en-US
+  Accept-Language: en; q=0.9
+  Cookie: csrf_token=XK0h+49UHTfJdL+q54bkVDqtwZ6xZpjU7J8tctBVz+o=; _ga=GA1.1.80832845.1550989018
+  Host: localhost:50703
+  Referer: http://localhost:50703/swagger/ui/index
+  User-Agent: Mozilla/5.0
+  User-Agent: (Windows NT 10.0; Win64; x64)
+  User-Agent: AppleWebKit/537.36
+  User-Agent: (KHTML, like Gecko)
+  User-Agent: Chrome/75.0.3770.142
+  User-Agent: Safari/537.36
+  Origin: http://localhost:50703
+  ApplicationInsights-RequestTrackingTelemetryModule-RootRequest-Id: aa1a6b92-b47b-413b-9948-54ee229cc092
+  Content-Length: 201
+  Content-Type: application/json
+} 
+2019-08-01 12:26:24.9595 16 Info CardAuthorizeAttribute Request got here from client with request details Method: POST, RequestUri: 'http://localhost:50703/CardMGT/RequestVirtualCard', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Connection: Keep-Alive
+  Expect: 100-continue
+  Host: localhost:50703
+  X-CS: xDPX1VOotQ83EBpICiPvk07wGwjCJITyScPhZ3XiYTg=
+  X-CID: GOMD88C219
+  ApplicationInsights-RequestTrackingTelemetryModule-RootRequest-Id: a78dddaf-e0db-42c5-a7c1-9517509834ff
+  Content-Length: 221
+  Content-Type: application/json; charset=utf-8
+} 
+2019-08-01 12:27:07.7143 6 Info CardManagementService Inside InstanceVirtual Card ReqWallet method for Account  and ProductId 100 
+2019-08-01 12:27:07.7373 6 Info CardManagementService Product Loaded Successfully for Account  and ProductId 100 
+2019-08-01 12:27:08.3542 6 Info CardManagementService PAN Generated for Account  and ProductId 100 is 30712608 
+2019-08-01 12:27:08.3542 6 Info CardManagementService Final PAN Generated for Account  and ProductId 100 is 5334771430712608 
+2019-08-01 12:27:10.0166 16 Info CardManagementService Card Details Not Successfully inserted into Postillion for Account  and ProductId 100 
+2019-08-01 13:32:28.5705 57 Info CardManagementService Inside InstanceVirtual Card ReqWallet method for Account  and ProductId 0 
+2019-08-01 13:32:28.7435 57 Info CardManagementService Product Loaded Successfully for Account  and ProductId 0 
+2019-08-01 13:50:45.1089 24 Info CardManagementService Inside InstanceVirtual Card ReqWallet method for Account string and ProductId 0 
+2019-08-01 13:50:45.1480 24 Info CardManagementService Product Loaded Successfully for Account string and ProductId 0 
+2019-08-01 13:50:59.3373 24 Info CardManagementService Inside InstanceVirtual Card ReqWallet method for Account string88888888888888888888888888888888888888888888888888888888888888888888888888 and ProductId 0 
+2019-08-01 13:50:59.3553 24 Info CardManagementService Product Loaded Successfully for Account string88888888888888888888888888888888888888888888888888888888888888888888888888 and ProductId 0 
+2019-10-03 16:19:16.7642 5 Info AccountController  / CreateClient by 1 BEGINS. 
+2019-10-03 16:19:16.9622 20 Info AccountController  / CreateClient by 1 ENDS. 
+2019-10-03 16:51:31.1491 20 Info AccountController  / CreateClient by 1 BEGINS. 
+2019-10-03 16:51:50.7742 7 Info AccountController  / CreateClient by 1 ENDS. 
+2019-10-04 16:06:47.9456 7 Error CardManagementService System.InvalidOperationException: The communication object, System.ServiceModel.ChannelFactory`1[CardMGTService.Core.cardservice.CardsSoap], cannot be modified while it is in the Opening state.
+   at System.ServiceModel.Channels.CommunicationObject.ThrowIfDisposedOrImmutable()
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at System.ServiceModel.ChannelFactory.EnsureOpened()
+   at System.ServiceModel.ChannelFactory`1.CreateChannel(EndpointAddress address, Uri via)
+   at System.ServiceModel.ChannelFactory`1.CreateChannel()
+   at System.ServiceModel.ClientBase`1.CreateChannel()
+   at System.ServiceModel.ClientBase`1.CreateChannelInternal()
+   at System.ServiceModel.ClientBase`1.get_Channel()
+   at CardMGTService.Core.cardservice.CardsSoapClient.InserWalletCardData(String pan, String seq, String exp, String account, String custId, String nameOnCard, String city, String state, String address, String branch, String accType, String curCode, String cardProg, String user) in C:\Users\mosakuno\source\repos\CardMGTService\CardMGTService.Core\Connected Services\cardservice\Reference.cs:line 902
+   at CardMGTService.Core.Services.Impl.CardManagementService.<InstanceVirtualCardReqWallet>d__13.MoveNext() in C:\Users\mosakuno\source\repos\CardMGTService\CardMGTService.Core\Services\Impl\CardManagementService.cs:line 141 System.InvalidOperationException: The communication object, System.ServiceModel.ChannelFactory`1[CardMGTService.Core.cardservice.CardsSoap], cannot be modified while it is in the Opening state.
+   at System.ServiceModel.Channels.CommunicationObject.ThrowIfDisposedOrImmutable()
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at System.ServiceModel.ChannelFactory.EnsureOpened()
+   at System.ServiceModel.ChannelFactory`1.CreateChannel(EndpointAddress address, Uri via)
+   at System.ServiceModel.ChannelFactory`1.CreateChannel()
+   at System.ServiceModel.ClientBase`1.CreateChannel()
+   at System.ServiceModel.ClientBase`1.CreateChannelInternal()
+   at System.ServiceModel.ClientBase`1.get_Channel()
+   at CardMGTService.Core.cardservice.CardsSoapClient.InserWalletCardData(String pan, String seq, String exp, String account, String custId, String nameOnCard, String city, String state, String address, String branch, String accType, String curCode, String cardProg, String user) in C:\Users\mosakuno\source\repos\CardMGTService\CardMGTService.Core\Connected Services\cardservice\Reference.cs:line 902
+   at CardMGTService.Core.Services.Impl.CardManagementService.<InstanceVirtualCardReqWallet>d__13.MoveNext() in C:\Users\mosakuno\source\repos\CardMGTService\CardMGTService.Core\Services\Impl\CardManagementService.cs:line 141
+2019-10-04 16:11:23.0714 28 Error CardManagementService System.InvalidOperationException: The communication object, System.ServiceModel.ChannelFactory`1[CardMGTService.Core.cardservice.CardsSoap], cannot be modified while it is in the Opening state.
+   at System.ServiceModel.Channels.CommunicationObject.ThrowIfDisposedOrImmutable()
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at System.ServiceModel.ChannelFactory.EnsureOpened()
+   at System.ServiceModel.ChannelFactory`1.CreateChannel(EndpointAddress address, Uri via)
+   at System.ServiceModel.ChannelFactory`1.CreateChannel()
+   at System.ServiceModel.ClientBase`1.CreateChannel()
+   at System.ServiceModel.ClientBase`1.CreateChannelInternal()
+   at System.ServiceModel.ClientBase`1.get_Channel()
+   at CardMGTService.Core.cardservice.CardsSoapClient.InserWalletCardData(String pan, String seq, String exp, String account, String custId, String nameOnCard, String city, String state, String address, String branch, String accType, String curCode, String cardProg, String user) in C:\Users\mosakuno\source\repos\CardMGTService\CardMGTService.Core\Connected Services\cardservice\Reference.cs:line 902
+   at CardMGTService.Core.Services.Impl.CardManagementService.<InstanceVirtualCardReqWallet>d__13.MoveNext() in C:\Users\mosakuno\source\repos\CardMGTService\CardMGTService.Core\Services\Impl\CardManagementService.cs:line 141 System.InvalidOperationException: The communication object, System.ServiceModel.ChannelFactory`1[CardMGTService.Core.cardservice.CardsSoap], cannot be modified while it is in the Opening state.
+   at System.ServiceModel.Channels.CommunicationObject.ThrowIfDisposedOrImmutable()
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at System.ServiceModel.ChannelFactory.EnsureOpened()
+   at System.ServiceModel.ChannelFactory`1.CreateChannel(EndpointAddress address, Uri via)
+   at System.ServiceModel.ChannelFactory`1.CreateChannel()
+   at System.ServiceModel.ClientBase`1.CreateChannel()
+   at System.ServiceModel.ClientBase`1.CreateChannelInternal()
+   at System.ServiceModel.ClientBase`1.get_Channel()
+   at CardMGTService.Core.cardservice.CardsSoapClient.InserWalletCardData(String pan, String seq, String exp, String account, String custId, String nameOnCard, String city, String state, String address, String branch, String accType, String curCode, String cardProg, String user) in C:\Users\mosakuno\source\repos\CardMGTService\CardMGTService.Core\Connected Services\cardservice\Reference.cs:line 902
+   at CardMGTService.Core.Services.Impl.CardManagementService.<InstanceVirtualCardReqWallet>d__13.MoveNext() in C:\Users\mosakuno\source\repos\CardMGTService\CardMGTService.Core\Services\Impl\CardManagementService.cs:line 141
+2019-10-04 16:14:00.7503 54 Error CardManagementService System.InvalidOperationException: The communication object, System.ServiceModel.ChannelFactory`1[CardMGTService.Core.cardservice.CardsSoap], cannot be modified while it is in the Opening state.
+   at System.ServiceModel.Channels.CommunicationObject.ThrowIfDisposedOrImmutable()
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at System.ServiceModel.ChannelFactory.EnsureOpened()
+   at System.ServiceModel.ChannelFactory`1.CreateChannel(EndpointAddress address, Uri via)
+   at System.ServiceModel.ChannelFactory`1.CreateChannel()
+   at System.ServiceModel.ClientBase`1.CreateChannel()
+   at System.ServiceModel.ClientBase`1.CreateChannelInternal()
+   at System.ServiceModel.ClientBase`1.get_Channel()
+   at CardMGTService.Core.cardservice.CardsSoapClient.InserWalletCardData(String pan, String seq, String exp, String account, String custId, String nameOnCard, String city, String state, String address, String branch, String accType, String curCode, String cardProg, String user) in C:\Users\mosakuno\source\repos\CardMGTService\CardMGTService.Core\Connected Services\cardservice\Reference.cs:line 902
+   at CardMGTService.Core.Services.Impl.CardManagementService.<InstanceVirtualCardReqWallet>d__13.MoveNext() in C:\Users\mosakuno\source\repos\CardMGTService\CardMGTService.Core\Services\Impl\CardManagementService.cs:line 141 System.InvalidOperationException: The communication object, System.ServiceModel.ChannelFactory`1[CardMGTService.Core.cardservice.CardsSoap], cannot be modified while it is in the Opening state.
+   at System.ServiceModel.Channels.CommunicationObject.ThrowIfDisposedOrImmutable()
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at System.ServiceModel.ChannelFactory.EnsureOpened()
+   at System.ServiceModel.ChannelFactory`1.CreateChannel(EndpointAddress address, Uri via)
+   at System.ServiceModel.ChannelFactory`1.CreateChannel()
+   at System.ServiceModel.ClientBase`1.CreateChannel()
+   at System.ServiceModel.ClientBase`1.CreateChannelInternal()
+   at System.ServiceModel.ClientBase`1.get_Channel()
+   at CardMGTService.Core.cardservice.CardsSoapClient.InserWalletCardData(String pan, String seq, String exp, String account, String custId, String nameOnCard, String city, String state, String address, String branch, String accType, String curCode, String cardProg, String user) in C:\Users\mosakuno\source\repos\CardMGTService\CardMGTService.Core\Connected Services\cardservice\Reference.cs:line 902
+   at CardMGTService.Core.Services.Impl.CardManagementService.<InstanceVirtualCardReqWallet>d__13.MoveNext() in C:\Users\mosakuno\source\repos\CardMGTService\CardMGTService.Core\Services\Impl\CardManagementService.cs:line 141
